@@ -1,0 +1,74 @@
+body {
+	background-color: hsl(204, 43%, 93%);
+	font-size: 16px;
+	font-family: 'Karla', sans-serif;
+}
+
+.container-fluid{
+	width: 40%;
+	padding-top: 8%;
+}
+
+.col-md-12{
+	background-color: #fff;
+	border-radius: 8px 8px 0px 0px;
+}
+
+.monthly{
+	background-color: hsl(179, 62%, 43%);
+	border-radius: 0px 0px 0px 8px;
+}
+
+.why{
+	background-color: hsl(218, 22%, 67%);
+	border-radius: 0px 0px 8px 0px;
+}
+
+.c1{
+	padding: 5%;
+}
+
+.c2,.c3{
+	padding: 10% 5% 10% 5%;
+	color: #fff;
+}
+
+.join{
+	color: hsl(179, 62%, 43%);
+	font-weight: 800;
+	font-size: 1.3rem;
+}
+
+.yellow{
+	color: hsl(71, 73%, 54%);
+	font-weight: 800;
+}
+
+.para{
+	font-weight: 400;
+    font-size: 0.8rem;
+}
+
+.head{
+	font-weight: 800;
+
+}
+
+.doll{
+	    font-size: 1.5rem;
+    font-weight: 800;
+}
+
+.p{
+	font-size: 0.8rem;
+}
+
+.btn{
+	background-color: hsl(71, 73%, 54%);
+    width: 100%;
+    font-size: 0.9rem;
+}
+
+.last{
+	font-size: 0.8rem;
+}
